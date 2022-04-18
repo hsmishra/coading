@@ -27,6 +27,6 @@ def max_water(height):
 
 
 # Driver code
-a = [3, 7, 2, 6, 1, 8]
+a = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
 
 print(max_water(a))
