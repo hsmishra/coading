@@ -1,3 +1,8 @@
+"""
+Given a sorted array with possibly duplicate elements, 
+the task is to find indexes of first element x in the given arra
+"""
+
 def find_first_index(lst, start, end, ele, num):
 
     mid = start + (end - start) // 2
